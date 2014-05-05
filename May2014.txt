@@ -14,3 +14,4 @@
 -----------------------------------------------------------------------------------------------------------
 May 5 2014: 1.Referred client_build_config repository from github.and gone through the zebootstrap.py code
             2.Gone through os.sys module
+            3.gone through the string module in python
