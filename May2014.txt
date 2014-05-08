@@ -20,3 +20,11 @@ may 6     : 1.Gone through client_build_config repository codes.
             2.practiced about git pull requests and merge pull requests.
             3.Gone through Git commands
             4.worked with some python modules
+-----------------------------------------------------------------------------------------------------------
+May 7     :1.Gone through jiva_build repository codes
+           2.Helped spavan to install BJC_Test under our local test cloud box
+           3.gone through .nsi documenatation
+-----------------------------------------------------------------------------------------------------------
+May 8:     1:Created jiva instances for branches rel_5.6 and 5.6 on my linux aws instance
+           2:worked on python modules.wrote programs using os n sys modules
+           
