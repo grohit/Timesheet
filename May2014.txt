@@ -27,4 +27,7 @@ May 7     :1.Gone through jiva_build repository codes
 -----------------------------------------------------------------------------------------------------------
 May 8:     1:Created jiva instances for branches rel_5.6 and 5.6 on my linux aws instance
            2:worked on python modules.wrote programs using os n sys modules
-           
+-----------------------------------------------------------------------------------------------------------
+May 9:     1:Attended training on build related stuffs given by spavan.
+           2:Gone through jiva_buildout repo n gone through the codes.
+           3:gone through the Jenkins documentation.
